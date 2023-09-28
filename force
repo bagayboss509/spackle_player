@@ -1,0 +1,24 @@
+{
+  "Cancel_Button_Background": "#7604be",
+  "Cancel_Button_Text": "NO THANKS",
+  "Cancel_Button_Text_Color": "#ffffff",
+  "Cancel_Visibility": "INVISIBLE",
+  "Dialog_Message": "تم تعديل هذا التطبيق بواسطة apk2mods برقية انضم إلينا للمزيد\n\ud835\udc13\ud835\udc07\ud835\udc08\ud835\udc12 \ud835\udc00\ud835\udc0f\ud835\udc0f \ud835\udc07\ud835\udc00\ud835\udc12 \ud835\udc01\ud835\udc04\ud835\udc04\ud835\udc0d \ud835\udc0f\ud835\udc00\ud835\udc02\ud835\udc13\ud835\udc07\ud835\udc04\ud835\udc03 \ud835\udc14\ud835\udc0d\ud835\udc0b\ud835\udc0e\ud835\udc02\ud835\udc0a\ud835\udc04\ud835\udc03 
+\ud835\udc01\ud835\udc18 \ud835\udc00\ud835\udc0f\ud835\udc0a\ud835\udfd0 \ud835\udc0c\ud835\udc0e\ud835\udc03\ud835\udc12 \ud835\udc13\ud835\udc04\ud835\udc0b\ud835\udc04\ud835\udc06\ud835\udc11\ud835\udc00\ud835\udc0c \ud835\udc02\ud835\udc07\ud835\udc00\ud835\udc0d\ud835\udc0d\ud835\udc04\ud835\udc0b 
+\ud835\udc09\ud835\udc0e\ud835\udc08\ud835\udc0d \ud835\udc14\ud835\udc12 \ud835\udc05\ud835\udc0e\ud835\udc11 \ud835\udc0c\ud835\udc0e\ud835\udc03\ud835\udc03\ud835\udc04\ud835\udc03 \ud835\udc00\ud835\udc0f\ud835\udc0f\ud835\udc12 \ud835\udc00\ud835\udc0d\ud835\udc03 \ud835\udc06\ud835\udc00\ud835\udc0c\ud835\udc04\ud835\udc12\ud83d\ude0b",
+  "Dialog_Submessage": "Yacine Tv Mod مفتوحة",
+  "Dialog_Subtitle": "JOIN US FOR MORE",
+  "Dialog_Title": "APP EXPIRED",
+  "Download_Button_Background": "#7604be",
+  "Download_Button_Text": "JOIN TELEGRAM",
+  "Download_Button_Text_Color": "#FFFFFFFF",
+  "Download_Link": "https://t.me/apk2mods",
+  "Icon_Link": "https://archive.org/download/apk2mods/logo-icon.png",
+  "Message_Color": "#7604be",
+  "New_Version": "3.0.0",
+  "Preference": "",
+  "Show_Time": "2",
+  "Title_Color": "#7604be",
+  "Update_Type": "true",
+  "User_Name": "c300efd8f790414cd76dbffbdd0f57ef"
+}
